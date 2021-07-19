@@ -12,4 +12,4 @@ LTSpice Simulations of Analog Blocks used in EE2019 Analog Systems Lab (Spring 2
 - Bandpass Filter 
 - Adder and Peak Detector
 
-The images of the assembled circuit have been added to thius repository under the directory '\imgs'
+The images of the assembled circuit have been added to this repository under the directory '\imgs'
